@@ -1,0 +1,10 @@
+name: AnonymousVisibility
+main: com.nao20010128nao.AnonymousVisibility.PluginMain
+version: "1.0.0"
+api: [1.0.0]
+load: STARTUP
+author: nao20010128nao
+authors: [nao20010128nao]
+description: A plugin to make everyone unidentifiable
+website: http://localhost/
+depend: [NukkitDepLoader]

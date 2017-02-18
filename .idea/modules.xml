@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnonymousVisibility.iml" filepath="$PROJECT_DIR$/.idea/modules/AnonymousVisibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnonymousVisiblity_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AnonymousVisiblity_main.iml" group="AnonymousVisiblity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnonymousVisiblity_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AnonymousVisiblity_test.iml" group="AnonymousVisiblity" />
+    </modules>
+  </component>
+</project>
